@@ -46,3 +46,4 @@
   - Mysql
   - Sqlalchemy
   - Git, Github
+  - AWS EC2, RDS
